@@ -1,0 +1,1342 @@
+{
+  "data": {
+    "location": {
+      "name": "San Francisco, CA",
+      "city": "San Francisco",
+      "state": "California",
+      "state_abv": "CA",
+      "zipcode": "94102",
+      "country": "United States",
+      "country_code": "US",
+      "latitude": 37.78,
+      "longitude": -122.42,
+      "place_path": "/earth/us/ca/san-francisco/94102",
+      "is_medical": true,
+      "is_recreational": true,
+      "quote": "Medically Legal Since 1996",
+      "cta_message": null,
+      "min_age": 18
+    },
+    "regions": {
+      "dispensary": {
+        "id": 56,
+        "name": "San Francisco",
+        "slug": "san-francisco",
+        "region_path": "united-states/california/san-francisco",
+        "latitude": 37.76092147827148,
+        "longitude": -122.455322265625,
+        "top_left": {
+          "latitude": 37.832427,
+          "longitude": -122.514897
+        },
+        "bottom_right": {
+          "latitude": 37.728262,
+          "longitude": -122.358463
+        },
+        "listings": [
+          {
+            "id": 23519,
+            "wmid": 814668606,
+            "name": "Purple Star MD",
+            "slug": "purple-star-md",
+            "type": "dispensary",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/dispensaries/000/023/519/avatar/square_fill/1510582234-1510083740-purple-star-md-san-francisco_1429037725.jpg",
+              "original_url": "https://images.weedmaps.com/dispensaries/000/023/519/avatar/original/1510582234-1510083740-purple-star-md-san-francisco_1429037725.jpg"
+            },
+            "rating": 4.5852417302799,
+            "distance": 1.615300671813154,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.756634/-122.419033/402/147/map.png",
+            "feature_order": 1,
+            "license_type": "recreational",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": true,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "storefront"
+            ]
+          },
+          {
+            "id": 56934,
+            "wmid": 125398380,
+            "name": "La Corona Wellness",
+            "slug": "la-corona-wellness-san-francisco",
+            "type": "dispensary",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/dispensaries/000/056/934/avatar/square_fill/1527114935-La_Corona_Logo.jpeg",
+              "original_url": "https://images.weedmaps.com/dispensaries/000/056/934/avatar/original/1527114935-La_Corona_Logo.jpeg"
+            },
+            "rating": 4.75968992248062,
+            "distance": 2.514199466822742,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.743634/-122.421615/402/147/map.png",
+            "feature_order": 2,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": true,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "storefront"
+            ]
+          },
+          {
+            "id": 17158,
+            "wmid": 645783188,
+            "name": "The Cookie Co. 415",
+            "slug": "cookie-co-415",
+            "type": "dispensary",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/dispensaries/000/017/158/avatar/square_fill/1510582022-Copy_of_FullSizeRender.jpg",
+              "original_url": "https://images.weedmaps.com/dispensaries/000/017/158/avatar/original/1510582022-Copy_of_FullSizeRender.jpg"
+            },
+            "rating": 4.53031358885017,
+            "distance": 2.275983536746164,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.747073/-122.418801/402/147/map.png",
+            "feature_order": 3,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "storefront"
+            ]
+          },
+          {
+            "id": 22647,
+            "wmid": 248310771,
+            "name": "Bloom Room Collective",
+            "slug": "bloom-room",
+            "type": "dispensary",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/dispensaries/000/022/647/avatar/square_fill/1510582156-Bloom_Room_Ambrosia_Logo_2017-L__1_.png",
+              "original_url": "https://images.weedmaps.com/dispensaries/000/022/647/avatar/original/1510582156-Bloom_Room_Ambrosia_Logo_2017-L__1_.png"
+            },
+            "rating": 4.5976401179941,
+            "distance": 0.6519158602699949,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.7819534/-122.4083206/402/147/map.png",
+            "feature_order": 4,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": true,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "storefront"
+            ]
+          },
+          {
+            "id": 54147,
+            "wmid": 998923084,
+            "name": "The Apothecarium - SOMA",
+            "slug": "the-apothecarium-2-2",
+            "type": "dispensary",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/dispensaries/000/054/147/avatar/square_fill/1510583332-1507842931-square_large_apoth.jpg",
+              "original_url": "https://images.weedmaps.com/dispensaries/000/054/147/avatar/original/1510583332-1507842931-square_large_apoth.jpg"
+            },
+            "rating": 4.01333333333333,
+            "distance": 1.390547953240308,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.787835/-122.396544/402/147/map.png",
+            "feature_order": 5,
+            "license_type": "recreational",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "storefront"
+            ]
+          },
+          {
+            "id": 44875,
+            "wmid": 544080822,
+            "name": "Urban Pharm",
+            "slug": "urban-pharm",
+            "type": "dispensary",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/dispensaries/000/044/875/avatar/square_fill/1510582879-12509277_503383856508134_3906493343453637376_n.png",
+              "original_url": "https://images.weedmaps.com/dispensaries/000/044/875/avatar/original/1510582879-12509277_503383856508134_3906493343453637376_n.png"
+            },
+            "rating": 4.66075334143378,
+            "distance": 0.4238860138945533,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.774882/-122.41572/402/147/map.png",
+            "feature_order": 7,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "storefront"
+            ]
+          },
+          {
+            "id": 52749,
+            "wmid": 526617279,
+            "name": "The Apothecarium - Marina",
+            "slug": "the-apothecarium-marina",
+            "type": "dispensary",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/dispensaries/000/052/749/avatar/square_fill/1510583341-large_apoth.jpg",
+              "original_url": "https://images.weedmaps.com/dispensaries/000/052/749/avatar/original/1510583341-large_apoth.jpg"
+            },
+            "rating": 4.46666666666667,
+            "distance": 1.774625382139825,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.799384/-122.441323/402/147/map.png",
+            "feature_order": 8,
+            "license_type": "recreational",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "storefront"
+            ]
+          },
+          {
+            "id": 47600,
+            "wmid": 388292045,
+            "name": "Flower to the People",
+            "slug": "flower-power-dispensary",
+            "type": "dispensary",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/dispensaries/000/047/600/avatar/square_fill/1510582977-FPlogo.png",
+              "original_url": "https://images.weedmaps.com/dispensaries/000/047/600/avatar/original/1510582977-FPlogo.png"
+            },
+            "rating": 4.30192307692308,
+            "distance": 1.21187214680534,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.788251/-122.400416/402/147/map.png",
+            "feature_order": 9,
+            "license_type": "recreational",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "storefront"
+            ]
+          },
+          {
+            "id": 12720,
+            "wmid": 451330257,
+            "name": "The Apothecarium - Castro",
+            "slug": "the-apothecarium",
+            "type": "dispensary",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/dispensaries/000/012/720/avatar/square_fill/1510581930-apoth.jpg",
+              "original_url": "https://images.weedmaps.com/dispensaries/000/012/720/avatar/original/1510581930-apoth.jpg"
+            },
+            "rating": 4.24496124031008,
+            "distance": 0.993196017045891,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.767464/-122.428899/402/147/map.png",
+            "feature_order": 10,
+            "license_type": "recreational",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "storefront"
+            ]
+          },
+          {
+            "id": 22838,
+            "wmid": 802257826,
+            "name": "Barbary Coast",
+            "slug": "barbary-coast-3",
+            "type": "dispensary",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/dispensaries/000/022/838/avatar/square_fill/1530131339-Screen_Shot_2018-06-27_at_1.25.55_PM.png",
+              "original_url": "https://images.weedmaps.com/dispensaries/000/022/838/avatar/original/1530131339-Screen_Shot_2018-06-27_at_1.25.55_PM.png"
+            },
+            "rating": 4.41022727272727,
+            "distance": 0.6828592381634663,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.7818081/-122.4077064/402/147/map.png",
+            "feature_order": 11,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "storefront"
+            ]
+          },
+          {
+            "id": 24424,
+            "wmid": 778784785,
+            "name": "SFFOGG",
+            "slug": "sffogg",
+            "type": "dispensary",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/dispensaries/000/024/424/avatar/square_fill/1549662476-Untitled_design.png",
+              "original_url": "https://images.weedmaps.com/dispensaries/000/024/424/avatar/original/1549662476-Untitled_design.png"
+            },
+            "rating": 4.48333333333333,
+            "distance": 0.6088463461279551,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.771637/-122.416487/402/147/map.png",
+            "feature_order": 15,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": true,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "storefront"
+            ]
+          },
+          {
+            "id": 55041,
+            "wmid": 785353106,
+            "name": "Elevated San Francisco",
+            "slug": "elevated-sf-2",
+            "type": "dispensary",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/dispensaries/000/055/041/avatar/square_fill/1513719576-Logo__1_.jpg",
+              "original_url": "https://images.weedmaps.com/dispensaries/000/055/041/avatar/original/1513719576-Logo__1_.jpg"
+            },
+            "rating": 4.87323943661972,
+            "distance": 4.857284192147104,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.710796/-122.404361/402/147/map.png",
+            "feature_order": 10,
+            "license_type": "recreational",
+            "package_level": "listing_plus",
+            "region_id": 419,
+            "online_ordering": {
+              "enabled_for_pickup": true,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "storefront"
+            ]
+          },
+          {
+            "id": 32275,
+            "wmid": 790307332,
+            "name": "The Green Cross",
+            "slug": "the-green-cross-3-2",
+            "type": "dispensary",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/dispensaries/000/032/275/avatar/square_fill/1510582538-Weedmapslogo.png",
+              "original_url": "https://images.weedmaps.com/dispensaries/000/032/275/avatar/original/1510582538-Weedmapslogo.png"
+            },
+            "rating": 4.51960784313726,
+            "distance": 3.518195437866242,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.729781/-122.430645/402/147/map.png",
+            "feature_order": 15,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 419,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "storefront"
+            ]
+          },
+          {
+            "id": 7338,
+            "wmid": 497579123,
+            "name": "Purple Lotus Patient Center - San Jose",
+            "slug": "purple-lotus",
+            "type": "dispensary",
+            "city": "San Jose",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/dispensaries/000/007/338/avatar/square_fill/1510581848-1502569887-d-At3f47h2q8xMiuYuqTe3NxSlzyaHBoYxKlHRUL3uk.jpg",
+              "original_url": "https://images.weedmaps.com/dispensaries/000/007/338/avatar/original/1510581848-1502569887-d-At3f47h2q8xMiuYuqTe3NxSlzyaHBoYxKlHRUL3uk.jpg"
+            },
+            "rating": 4.46682297772569,
+            "distance": 40.78354624182462,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.365018/-121.890376/402/147/map.png",
+            "feature_order": 1,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 88,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "storefront"
+            ]
+          }
+        ]
+      },
+      "delivery": {
+        "id": 56,
+        "name": "San Francisco",
+        "slug": "san-francisco",
+        "region_path": "united-states/california/san-francisco",
+        "latitude": 37.76092147827148,
+        "longitude": -122.455322265625,
+        "top_left": {
+          "latitude": 37.832427,
+          "longitude": -122.514897
+        },
+        "bottom_right": {
+          "latitude": 37.728262,
+          "longitude": -122.358463
+        },
+        "listings": [
+          {
+            "id": 46997,
+            "wmid": 189362652,
+            "name": "Bento - San Francisco",
+            "slug": "bento-san-francisco",
+            "type": "delivery",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/046/997/avatar/square_fill/1548985313-bento_logo_12.JPG",
+              "original_url": "https://images.weedmaps.com/deliveries/000/046/997/avatar/original/1548985313-bento_logo_12.JPG"
+            },
+            "rating": 5.0,
+            "distance": 3.277912737067495,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.745591/-122.461314/402/147/map.png",
+            "feature_order": 1,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "delivery"
+            ]
+          },
+          {
+            "id": 3465,
+            "wmid": 562940557,
+            "name": "TOP SHELF EXPRESS",
+            "slug": "top-shelf-guaranteed-expres",
+            "type": "delivery",
+            "city": "San Franisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/003/465/avatar/square_fill/1510580748-Top_Shelf_Logo_Leaf_01.png",
+              "original_url": "https://images.weedmaps.com/deliveries/000/003/465/avatar/original/1510580748-Top_Shelf_Logo_Leaf_01.png"
+            },
+            "rating": 3.85176470588235,
+            "distance": 0.759740137855818,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.788579/-122.428703/402/147/map.png",
+            "feature_order": 2,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": true
+            },
+            "retailer_services": [
+              "delivery"
+            ]
+          },
+          {
+            "id": 28313,
+            "wmid": 982048548,
+            "name": "Cannabis Express - San Francisco",
+            "slug": "cannabis-express-14",
+            "type": "delivery",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/028/313/avatar/square_fill/1519980066-CANEX_avatarBright.png",
+              "original_url": "https://images.weedmaps.com/deliveries/000/028/313/avatar/original/1519980066-CANEX_avatarBright.png"
+            },
+            "rating": 4.0,
+            "distance": 1.644441847669629,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.800862/-122.434496/402/147/map.png",
+            "feature_order": 3,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": true
+            },
+            "retailer_services": [
+              "delivery"
+            ]
+          },
+          {
+            "id": 14839,
+            "wmid": 174858647,
+            "name": "Citius Group",
+            "slug": "citius-group",
+            "type": "delivery",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/014/839/avatar/square_fill/1510581175-IMG_0215.JPG",
+              "original_url": "https://images.weedmaps.com/deliveries/000/014/839/avatar/original/1510581175-IMG_0215.JPG"
+            },
+            "rating": 4.84758620689655,
+            "distance": 3.667269974841483,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.729763/-122.441665/402/147/map.png",
+            "feature_order": 4,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "delivery"
+            ]
+          },
+          {
+            "id": 23089,
+            "wmid": 993048318,
+            "name": "Highwayz",
+            "slug": "highwayz",
+            "type": "delivery",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/023/089/avatar/square_fill/1549006135-HW_LOGO-02.png",
+              "original_url": "https://images.weedmaps.com/deliveries/000/023/089/avatar/original/1549006135-HW_LOGO-02.png"
+            },
+            "rating": 4.88454258675079,
+            "distance": 1.660649397180929,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.774576/-122.449624/402/147/map.png",
+            "feature_order": 5,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": true
+            },
+            "retailer_services": [
+              "delivery"
+            ]
+          },
+          {
+            "id": 35606,
+            "wmid": 226668367,
+            "name": "Proven SF",
+            "slug": "proven-sf",
+            "type": "delivery",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/035/606/avatar/square_fill/1527718214-PCD_LOGO_Monogram_for-light-BG_4x.png",
+              "original_url": "https://images.weedmaps.com/deliveries/000/035/606/avatar/original/1527718214-PCD_LOGO_Monogram_for-light-BG_4x.png"
+            },
+            "rating": 4.87619047619048,
+            "distance": 1.014214070099626,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.777815/-122.438365/402/147/map.png",
+            "feature_order": 6,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": true
+            },
+            "retailer_services": [
+              "delivery"
+            ]
+          },
+          {
+            "id": 28559,
+            "wmid": 294977407,
+            "name": "Cali Xpress",
+            "slug": "cali-xpress-3",
+            "type": "delivery",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/028/559/avatar/square_fill/1543892397-cortez_weed1-NEW_LOGO_1.jpg",
+              "original_url": "https://images.weedmaps.com/deliveries/000/028/559/avatar/original/1543892397-cortez_weed1-NEW_LOGO_1.jpg"
+            },
+            "rating": 4.39507389162561,
+            "distance": 1.120846534468132,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.771146/-122.437197/402/147/map.png",
+            "feature_order": 7,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": true
+            },
+            "retailer_services": [
+              "delivery"
+            ]
+          },
+          {
+            "id": 10454,
+            "wmid": 425123115,
+            "name": "SmileHouse",
+            "slug": "smile-house",
+            "type": "delivery",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/010/454/avatar/square_fill/1551829756-highhouse.jpg",
+              "original_url": "https://images.weedmaps.com/deliveries/000/010/454/avatar/original/1551829756-highhouse.jpg"
+            },
+            "rating": 4.93456878118318,
+            "distance": 0.723088226585347,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.786689/-122.409816/402/147/map.png",
+            "feature_order": 8,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": true
+            },
+            "retailer_services": [
+              "delivery"
+            ]
+          },
+          {
+            "id": 33824,
+            "wmid": 729658858,
+            "name": "CannaBreaze - San Francisco",
+            "slug": "cannabreaze",
+            "type": "delivery",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/033/824/avatar/square_fill/1550711808-IMG_2386.JPG",
+              "original_url": "https://images.weedmaps.com/deliveries/000/033/824/avatar/original/1550711808-IMG_2386.JPG"
+            },
+            "rating": 4.54980988593156,
+            "distance": 3.879799303914098,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.743143/-122.473587/402/147/map.png",
+            "feature_order": 9,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "delivery"
+            ]
+          },
+          {
+            "id": 38415,
+            "wmid": 992901315,
+            "name": "SF Green Delivery",
+            "slug": "sf-green-delivery-2",
+            "type": "delivery",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/038/415/avatar/square_fill/1529527743-sfgd-circularv2.png",
+              "original_url": "https://images.weedmaps.com/deliveries/000/038/415/avatar/original/1529527743-sfgd-circularv2.png"
+            },
+            "rating": 4.1,
+            "distance": 1.56824416298669,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.802134/-122.42636/402/147/map.png",
+            "feature_order": 10,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": true
+            },
+            "retailer_services": [
+              "delivery"
+            ]
+          },
+          {
+            "id": 47395,
+            "wmid": 186248704,
+            "name": "Organix/Puffy Delivery",
+            "slug": "organix-delivery-86",
+            "type": "delivery",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/047/395/avatar/square_fill/1550866560-289582f5-f369-411c-b827-e549c44e0625.jpg",
+              "original_url": "https://images.weedmaps.com/deliveries/000/047/395/avatar/original/1550866560-289582f5-f369-411c-b827-e549c44e0625.jpg"
+            },
+            "rating": 5.0,
+            "distance": 0.5296764153183704,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.772916/-122.423707/402/147/map.png",
+            "feature_order": 11,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": true
+            },
+            "retailer_services": [
+              "delivery"
+            ]
+          },
+          {
+            "id": 15820,
+            "wmid": 335835129,
+            "name": "JAHNETICS",
+            "slug": "jahnetics",
+            "type": "delivery",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/015/820/avatar/square_fill/1510581205-logosolo.jpg",
+              "original_url": "https://images.weedmaps.com/deliveries/000/015/820/avatar/original/1510581205-logosolo.jpg"
+            },
+            "rating": 4.80805369127517,
+            "distance": 1.48504334076182,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.778625/-122.447138/402/147/map.png",
+            "feature_order": 15,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": true
+            },
+            "retailer_services": [
+              "delivery"
+            ]
+          },
+          {
+            "id": 45791,
+            "wmid": 457740409,
+            "name": "LIFTED VILLAGE",
+            "slug": "lifted-village-1",
+            "type": "delivery",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/045/791/avatar/square_fill/1547318637-LVSF_pixels__1_.jpg",
+              "original_url": "https://images.weedmaps.com/deliveries/000/045/791/avatar/original/1547318637-LVSF_pixels__1_.jpg"
+            },
+            "rating": 5.0,
+            "distance": 3.306155557901177,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.733405/-122.433773/402/147/map.png",
+            "feature_order": 19,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "delivery"
+            ]
+          }
+        ]
+      },
+      "doctor": {
+        "id": 56,
+        "name": "San Francisco",
+        "slug": "san-francisco",
+        "region_path": "united-states/california/san-francisco",
+        "latitude": 37.76092147827148,
+        "longitude": -122.455322265625,
+        "top_left": {
+          "latitude": 37.832427,
+          "longitude": -122.514897
+        },
+        "bottom_right": {
+          "latitude": 37.728262,
+          "longitude": -122.358463
+        },
+        "listings": [
+          {
+            "id": 15415,
+            "wmid": 534208609,
+            "name": "WeedRecs.com (100% Online)",
+            "slug": "weedrecs-com-56",
+            "type": "doctor",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/doctors/000/015/415/avatar/square_fill/1539461381-Logo-white-square.jpeg",
+              "original_url": "https://images.weedmaps.com/doctors/000/015/415/avatar/original/1539461381-Logo-white-square.jpeg"
+            },
+            "rating": 3.15833333333333,
+            "distance": 2.061736162399185,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.785964/-122.456994/402/147/map.png",
+            "feature_order": 1,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "doctor"
+            ]
+          },
+          {
+            "id": 18048,
+            "wmid": 120614391,
+            "name": "Dr. Weedy Clinic Online",
+            "slug": "dr-weedy-883de1e5-ac91-4589-b732-156590cece31",
+            "type": "doctor",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/doctors/000/018/048/avatar/square_fill/1543239001-logo-heart-weedmaps-clean.jpg",
+              "original_url": "https://images.weedmaps.com/doctors/000/018/048/avatar/original/1543239001-logo-heart-weedmaps-clean.jpg"
+            },
+            "rating": 5.0,
+            "distance": 0.4681916436299169,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.786656/-122.421608/402/147/map.png",
+            "feature_order": 9999,
+            "license_type": "medical",
+            "package_level": "basic",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "doctor"
+            ]
+          },
+          {
+            "id": 12267,
+            "wmid": 842972942,
+            "name": "MMJ Doctor",
+            "slug": "mmj-doctor",
+            "type": "doctor",
+            "city": "San Francisco",
+            "state": "California",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/square_fill/image_missing.jpg",
+              "original_url": "https://images.weedmaps.com/original/image_missing.jpg"
+            },
+            "rating": 4.8280701754386,
+            "distance": 0.6707489897547925,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.771154/-122.425059/402/147/map.png",
+            "feature_order": 9999,
+            "license_type": "medical",
+            "package_level": "free",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "doctor"
+            ]
+          },
+          {
+            "id": 11094,
+            "wmid": 284244730,
+            "name": "Dr. Philip Wolfson",
+            "slug": "dr-philip-wolfson",
+            "type": "doctor",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/square_fill/image_missing.jpg",
+              "original_url": "https://images.weedmaps.com/original/image_missing.jpg"
+            },
+            "rating": 0.0,
+            "distance": 1.431959939334847,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.7962584/-122.4037366/402/147/map.png",
+            "feature_order": 9999,
+            "license_type": "medical",
+            "package_level": "free",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "doctor"
+            ]
+          },
+          {
+            "id": 11778,
+            "wmid": 926910918,
+            "name": "Compassionate Health Options",
+            "slug": "compassionate-health-options-san-francisco",
+            "type": "doctor",
+            "city": "San Francisco",
+            "state": "Ca",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/square_fill/image_missing.jpg",
+              "original_url": "https://images.weedmaps.com/original/image_missing.jpg"
+            },
+            "rating": 5.0,
+            "distance": 0.524222759009894,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.7760971/-122.4117682/402/147/map.png",
+            "feature_order": 9999,
+            "license_type": "medical",
+            "package_level": "free",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "doctor"
+            ]
+          }
+        ]
+      },
+      "deliverable": {
+        "id": 56,
+        "name": "San Francisco",
+        "slug": "san-francisco",
+        "region_path": "united-states/california/san-francisco",
+        "latitude": 37.76092147827148,
+        "longitude": -122.455322265625,
+        "top_left": {
+          "latitude": 37.832427,
+          "longitude": -122.514897
+        },
+        "bottom_right": {
+          "latitude": 37.728262,
+          "longitude": -122.358463
+        },
+        "listings": [
+          {
+            "id": 46997,
+            "wmid": 189362652,
+            "name": "Bento - San Francisco",
+            "slug": "bento-san-francisco",
+            "type": "delivery",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/046/997/avatar/square_fill/1548985313-bento_logo_12.JPG",
+              "original_url": "https://images.weedmaps.com/deliveries/000/046/997/avatar/original/1548985313-bento_logo_12.JPG"
+            },
+            "rating": 5.0,
+            "distance": 3.277912737067495,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.745591/-122.461314/402/147/map.png",
+            "feature_order": 1,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "delivery"
+            ]
+          },
+          {
+            "id": 3465,
+            "wmid": 562940557,
+            "name": "TOP SHELF EXPRESS",
+            "slug": "top-shelf-guaranteed-expres",
+            "type": "delivery",
+            "city": "San Franisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/003/465/avatar/square_fill/1510580748-Top_Shelf_Logo_Leaf_01.png",
+              "original_url": "https://images.weedmaps.com/deliveries/000/003/465/avatar/original/1510580748-Top_Shelf_Logo_Leaf_01.png"
+            },
+            "rating": 3.85176470588235,
+            "distance": 0.759740137855818,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.788579/-122.428703/402/147/map.png",
+            "feature_order": 2,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": true
+            },
+            "retailer_services": [
+              "delivery"
+            ]
+          },
+          {
+            "id": 28313,
+            "wmid": 982048548,
+            "name": "Cannabis Express - San Francisco",
+            "slug": "cannabis-express-14",
+            "type": "delivery",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/028/313/avatar/square_fill/1519980066-CANEX_avatarBright.png",
+              "original_url": "https://images.weedmaps.com/deliveries/000/028/313/avatar/original/1519980066-CANEX_avatarBright.png"
+            },
+            "rating": 4.0,
+            "distance": 1.644441847669629,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.800862/-122.434496/402/147/map.png",
+            "feature_order": 3,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": true
+            },
+            "retailer_services": [
+              "delivery"
+            ]
+          },
+          {
+            "id": 14839,
+            "wmid": 174858647,
+            "name": "Citius Group",
+            "slug": "citius-group",
+            "type": "delivery",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/014/839/avatar/square_fill/1510581175-IMG_0215.JPG",
+              "original_url": "https://images.weedmaps.com/deliveries/000/014/839/avatar/original/1510581175-IMG_0215.JPG"
+            },
+            "rating": 4.84758620689655,
+            "distance": 3.667269974841483,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.729763/-122.441665/402/147/map.png",
+            "feature_order": 4,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "delivery"
+            ]
+          },
+          {
+            "id": 23089,
+            "wmid": 993048318,
+            "name": "Highwayz",
+            "slug": "highwayz",
+            "type": "delivery",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/023/089/avatar/square_fill/1549006135-HW_LOGO-02.png",
+              "original_url": "https://images.weedmaps.com/deliveries/000/023/089/avatar/original/1549006135-HW_LOGO-02.png"
+            },
+            "rating": 4.88454258675079,
+            "distance": 1.660649397180929,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.774576/-122.449624/402/147/map.png",
+            "feature_order": 5,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": true
+            },
+            "retailer_services": [
+              "delivery"
+            ]
+          },
+          {
+            "id": 35606,
+            "wmid": 226668367,
+            "name": "Proven SF",
+            "slug": "proven-sf",
+            "type": "delivery",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/035/606/avatar/square_fill/1527718214-PCD_LOGO_Monogram_for-light-BG_4x.png",
+              "original_url": "https://images.weedmaps.com/deliveries/000/035/606/avatar/original/1527718214-PCD_LOGO_Monogram_for-light-BG_4x.png"
+            },
+            "rating": 4.87619047619048,
+            "distance": 1.014214070099626,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.777815/-122.438365/402/147/map.png",
+            "feature_order": 6,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": true
+            },
+            "retailer_services": [
+              "delivery"
+            ]
+          },
+          {
+            "id": 28559,
+            "wmid": 294977407,
+            "name": "Cali Xpress",
+            "slug": "cali-xpress-3",
+            "type": "delivery",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/028/559/avatar/square_fill/1543892397-cortez_weed1-NEW_LOGO_1.jpg",
+              "original_url": "https://images.weedmaps.com/deliveries/000/028/559/avatar/original/1543892397-cortez_weed1-NEW_LOGO_1.jpg"
+            },
+            "rating": 4.39507389162561,
+            "distance": 1.120846534468132,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.771146/-122.437197/402/147/map.png",
+            "feature_order": 7,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": true
+            },
+            "retailer_services": [
+              "delivery"
+            ]
+          },
+          {
+            "id": 10454,
+            "wmid": 425123115,
+            "name": "SmileHouse",
+            "slug": "smile-house",
+            "type": "delivery",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/010/454/avatar/square_fill/1551829756-highhouse.jpg",
+              "original_url": "https://images.weedmaps.com/deliveries/000/010/454/avatar/original/1551829756-highhouse.jpg"
+            },
+            "rating": 4.93456878118318,
+            "distance": 0.723088226585347,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.786689/-122.409816/402/147/map.png",
+            "feature_order": 8,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": true
+            },
+            "retailer_services": [
+              "delivery"
+            ]
+          },
+          {
+            "id": 33824,
+            "wmid": 729658858,
+            "name": "CannaBreaze - San Francisco",
+            "slug": "cannabreaze",
+            "type": "delivery",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/033/824/avatar/square_fill/1550711808-IMG_2386.JPG",
+              "original_url": "https://images.weedmaps.com/deliveries/000/033/824/avatar/original/1550711808-IMG_2386.JPG"
+            },
+            "rating": 4.54980988593156,
+            "distance": 3.879799303914098,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.743143/-122.473587/402/147/map.png",
+            "feature_order": 9,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "delivery"
+            ]
+          },
+          {
+            "id": 38415,
+            "wmid": 992901315,
+            "name": "SF Green Delivery",
+            "slug": "sf-green-delivery-2",
+            "type": "delivery",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/038/415/avatar/square_fill/1529527743-sfgd-circularv2.png",
+              "original_url": "https://images.weedmaps.com/deliveries/000/038/415/avatar/original/1529527743-sfgd-circularv2.png"
+            },
+            "rating": 4.1,
+            "distance": 1.56824416298669,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.802134/-122.42636/402/147/map.png",
+            "feature_order": 10,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": true
+            },
+            "retailer_services": [
+              "delivery"
+            ]
+          },
+          {
+            "id": 47395,
+            "wmid": 186248704,
+            "name": "Organix/Puffy Delivery",
+            "slug": "organix-delivery-86",
+            "type": "delivery",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/047/395/avatar/square_fill/1550866560-289582f5-f369-411c-b827-e549c44e0625.jpg",
+              "original_url": "https://images.weedmaps.com/deliveries/000/047/395/avatar/original/1550866560-289582f5-f369-411c-b827-e549c44e0625.jpg"
+            },
+            "rating": 5.0,
+            "distance": 0.5296764153183704,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.772916/-122.423707/402/147/map.png",
+            "feature_order": 11,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": true
+            },
+            "retailer_services": [
+              "delivery"
+            ]
+          },
+          {
+            "id": 15820,
+            "wmid": 335835129,
+            "name": "JAHNETICS",
+            "slug": "jahnetics",
+            "type": "delivery",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/015/820/avatar/square_fill/1510581205-logosolo.jpg",
+              "original_url": "https://images.weedmaps.com/deliveries/000/015/820/avatar/original/1510581205-logosolo.jpg"
+            },
+            "rating": 4.80805369127517,
+            "distance": 1.48504334076182,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.778625/-122.447138/402/147/map.png",
+            "feature_order": 15,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": true
+            },
+            "retailer_services": [
+              "delivery"
+            ]
+          },
+          {
+            "id": 45791,
+            "wmid": 457740409,
+            "name": "LIFTED VILLAGE",
+            "slug": "lifted-village-1",
+            "type": "delivery",
+            "city": "San Francisco",
+            "state": "CA",
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/045/791/avatar/square_fill/1547318637-LVSF_pixels__1_.jpg",
+              "original_url": "https://images.weedmaps.com/deliveries/000/045/791/avatar/original/1547318637-LVSF_pixels__1_.jpg"
+            },
+            "rating": 5.0,
+            "distance": 3.306155557901177,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/37.733405/-122.433773/402/147/map.png",
+            "feature_order": 19,
+            "license_type": "hybrid",
+            "package_level": "listing_plus",
+            "region_id": 56,
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            },
+            "retailer_services": [
+              "delivery"
+            ]
+          }
+        ]
+      },
+      "brand": {
+        "id": 1314,
+        "name": "San Francisco Brands",
+        "slug": "san-francisco-brands",
+        "region_path": "united-states/california/san-francisco-brands",
+        "latitude": 37.50724411010742,
+        "longitude": -122.3186950683594,
+        "top_left": {
+          "latitude": 37.832427,
+          "longitude": -122.520852
+        },
+        "bottom_right": {
+          "latitude": 37.285146,
+          "longitude": -122.0353
+        }
+      },
+      "deal": {
+        "id": 56,
+        "name": "San Francisco",
+        "slug": "san-francisco",
+        "region_path": "united-states/california/san-francisco",
+        "latitude": 37.76092147827148,
+        "longitude": -122.455322265625,
+        "top_left": {
+          "latitude": 37.832427,
+          "longitude": -122.514897
+        },
+        "bottom_right": {
+          "latitude": 37.728262,
+          "longitude": -122.358463
+        }
+      }
+    }
+  }
+}
