@@ -21,7 +21,8 @@ const setupCaArray = new Promise(function(resolve, reject) {
       let rowsLen = rows.length;
       rows.forEach(row => {
         let secRemaing = rowsLen * 15;
-        console.log("Estimated time remaining: "+ (secRemaing/60) + " minutes");
+        // console.log("Estimated time remaining: "+ (secRemaing/60) + " minutes");
+        console.table(row);
 
         let city  = row[1];
         let state = row[2];
