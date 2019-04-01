@@ -1,1 +1,5 @@
 /node_modules
+/crawled-data
+/crawled-dupes
+/crawled-test
+/csvs
